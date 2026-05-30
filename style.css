@@ -1,0 +1,57 @@
+body{
+font-family: Arial, sans-serif;
+margin:0;
+padding:0;
+background:#f4f4f4;
+}
+
+header{
+background:#0077cc;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav{
+margin-top:10px;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:10px;
+font-weight:bold;
+}
+
+.container{
+width:80%;
+margin:auto;
+padding:20px;
+background:white;
+margin-top:20px;
+border-radius:10px;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+margin-top:20px;
+}
+
+table, th, td{
+border:1px solid black;
+}
+
+th{
+background:#0077cc;
+color:white;
+}
+
+th, td{
+padding:12px;
+text-align:center;
+}
+
+ul li{
+padding:5px;
+}
